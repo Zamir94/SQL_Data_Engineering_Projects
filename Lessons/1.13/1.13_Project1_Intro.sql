@@ -1,2 +1,4 @@
-SELECT job_country
-from job_postings_fact;
+SELECT 
+    job_country
+FROM
+    job_postings_fact;
