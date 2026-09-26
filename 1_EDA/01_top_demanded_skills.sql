@@ -1,7 +1,7 @@
 /*
 What are the most in-demand skills for data engineers?
 - Identify the top 10 in-demand skills for data engineers.
-- Focus on jobs located in Minnesoata as well as remote jobs.
+- Focus on remote jobs.
 - Why? Retaining top talent is crucial for companies, and understanding the skills that are in high demand can help guide training and hiring strategies.
 */
 SELECT 
